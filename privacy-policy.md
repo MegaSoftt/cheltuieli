@@ -1,0 +1,63 @@
+
+# Politica de Confidențialitate
+**WFO Cheltuieli** — Ultima actualizare: 11 august 2026
+
+---
+
+**Pe scurt:** WFO Cheltuieli nu colectează, nu stochează și nu trimite nicio dată personală către servere externe. Toate datele rămân exclusiv pe dispozitivul tău.
+
+---
+
+## 1. Ce date colectăm
+
+Aplicația **WFO Cheltuieli** **nu colectează** date personale identificabile. Nu solicităm, nu stocăm și nu transmitem:
+
+- Nume, adresă de e-mail sau date de contact
+- Date de localizare GPS
+- Informații despre conturi bancare sau carduri
+- Date de identificare ale dispozitivului (IMEI, telefon, etc.)
+- Date de utilizare sau analytics
+
+## 2. Cum sunt stocate datele
+
+Toate informațiile pe care le introduci în aplicație (venituri, cheltuieli, categorii, obiective) sunt stocate **exclusiv pe dispozitivul tău**, în memoria internă a aplicației (AsyncStorage / baza de date locală).
+
+Aceste date:
+
+- Nu sunt trimise niciodată pe internet
+- Nu sunt accesibile de către dezvoltator sau terți
+- Nu sunt asociate cu contul tău Google Play
+- Sunt șterse automat la dezinstalarea aplicației
+
+## 3. Permisiuni
+
+Aplicația necesită următoarele permisiuni:
+
+- **INTERNET** — utilizată exclusiv pentru funcționalitățile opționale de backup local (export/import date pe dispozitiv)
+- **VIBRATE** — pentru feedback haptic la interacțiuni
+
+Aplicația **nu utilizează** camera, microfonul, localizarea, contactele, sau orice altă sursă de date sensibile.
+
+## 4. Copii și confidențialitate
+
+WFO Cheltuieli nu este destinată copiilor sub 13 ani și nu colectează cu bună știință date personale de la copii.
+
+## 5. Link-uri externe
+
+Aplicația nu conține link-uri către site-uri terțe și nu redirecționează utilizatorii către pagini externe.
+
+## 6. Modificări ale politicii
+
+Este posibil să actualizăm această politică în timp. Orice modificare va fi publicată în această pagină, cu data actualizării. Îți recomandăm să revizuiești periodic politica.
+
+## 7. Contact
+
+Pentru întrebări legate de confidențialitate, ne poți contacta la:
+
+- Site: https://wfo.ro
+- E-mail: contact@wfo.ro
+
+---
+
+© 2026 WFO. Toate drepturile rezervate.
+Această politică de confidențialitate este valabilă pentru aplicația WFO Cheltuieli (com.wfo.cheltuieli) pe platforma Android.
